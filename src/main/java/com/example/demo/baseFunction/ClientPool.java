@@ -2,7 +2,7 @@ package com.example.demo.baseFunction;
 
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+//@RestController
 public class ClientPool {
 //    static public Redis authRedis;// = new Redis(Redis.DatabaseType.LOGIN);
 //    static public Redis sqlRedis;// = new Redis(Redis.DatabaseType.SQL);

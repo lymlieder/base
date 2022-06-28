@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 @Log4j2
-@RestController
+//@RestController
 //内部redis，仿redis
 public class InnerCache {
     @Builder

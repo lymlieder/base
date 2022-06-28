@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 
 @Log4j2
-@RestController
+//@RestController
 public class PhoneMessage {
 
     static Gson gson = new Gson();

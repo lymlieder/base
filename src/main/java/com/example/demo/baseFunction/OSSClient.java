@@ -10,7 +10,7 @@ import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 
-@RestController
+//@RestController
 public class OSSClient {
     // Endpoint以杭州为例，其它Region请按实际情况填写。
     static String endpoint;

@@ -28,7 +28,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.function.Consumer;
 
 @Log4j2
-@RestController
+//@RestController
 public class MongoDB {
     Gson gson = new Gson();
     ObjectMapper json = new ObjectMapper();

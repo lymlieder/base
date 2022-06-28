@@ -11,7 +11,7 @@ import java.util.*;
 //https://github.com/apache/rocketmq/blob/master/docs/cn/RocketMQ_Example.md
 
 @Log4j2
-@RestController
+//@RestController
 public class RocketMqSender {
 
     Properties properties = new Properties();

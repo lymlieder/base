@@ -13,7 +13,7 @@ import java.util.Set;
 import java.util.concurrent.atomic.AtomicLong;
 
 @Log4j2
-@RestController
+//@RestController
 public class Redis {
 
     public static class DatabaseType {
