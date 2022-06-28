@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.util.Properties;
 
 @Log4j2
-@Component
+//@Component
 public class RocketMqGetter {
 
     Properties properties = new Properties();
