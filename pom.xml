@@ -22,14 +22,6 @@
 
     <dependencies>
 
-<!--        &lt;!&ndash;ali支付&ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>com.alipay.sdk</groupId>-->
-<!--            <artifactId>alipay-sdk-java</artifactId>-->
-<!--            <version>4.31.12.ALL</version>-->
-<!--            &lt;!&ndash;            <version>4.31.7.ALL</version>&ndash;&gt;-->
-<!--        </dependency>-->
-
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-core</artifactId>
